@@ -1,6 +1,6 @@
-# WriteTheDocs Prague 2019: JupyterLab
+# Jupyter slides
 
-This repository contains the slide, code, and data for a lighting talk
+This repository contains the slides, code, and data for a lighting talk
 at WriteTheDocs Prague 2019 about reproducible documentation using
 JupyterLab.
 
